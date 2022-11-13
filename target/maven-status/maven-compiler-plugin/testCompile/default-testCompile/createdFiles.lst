@@ -1,0 +1,5 @@
+testCases\BaseClass.class
+pageObjects\ImdbMainPage.class
+pageObjects\WikipediaMainPage.class
+testCases\MovieInfoValidation.class
+utilities\ReadConfig.class
